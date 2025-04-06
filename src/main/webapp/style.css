@@ -189,4 +189,6 @@ form .form-help :where(label, a) {
   .form-control label {
     top: 80%;
   }
+  {
+  }
 }
